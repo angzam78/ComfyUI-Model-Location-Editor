@@ -31,7 +31,7 @@ Instead of manually tracking where each model should be saved or where to downlo
 ## How to Edit Model Location Metadata
 
 1.  **Open the Menu:** Right-click on any node that loads a model (e.g., `Load Checkpoint`, `Lora Loader`).
-2.  **Edit Location Metadata:** Select **"⚙️ Edit Location Metadata"** from the context menu.
+2.  **Edit Model Location Metadata:** Select **"⚙️ Edit Model Location Metadata"** from the context menu.
 3.  **Review/Configure:** The editor will open.
     * **Add:** Click "Add New Model Entry" to manually define a model.
     * **Edit:** Update the `Download URL` or `Target Directory`.
